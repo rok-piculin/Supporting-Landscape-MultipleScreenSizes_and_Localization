@@ -1,0 +1,2 @@
+# Supporting-Landscape-MultipleScreenSizes_and_Localization
+android studio exercise
