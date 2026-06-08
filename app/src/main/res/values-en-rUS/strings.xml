@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="reset">Reset</string>
+    <string name="news_label">Latest news</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>   <!-- OSTANE SOCCER -->
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Baseball is a bat-and-ball game played between two teams.</item>
+        <item>Badminton is a racquet sport played using racquets to hit a shuttlecock.</item>
+        <item>Basketball is a team sport where two teams try to score by shooting a ball through a hoop.</item>
+        <item>Bowling is a target sport and recreational activity.</item>
+        <item>Cycling is a popular form of transport, recreation, and sport.</item>
+        <item>Golf is a club-and-ball sport in which players hit balls into a series of holes.</item>
+        <item>Running is a method of terrestrial locomotion allowing humans to move rapidly on foot.</item>
+        <item>Soccer is a team sport played between two teams of eleven players with a spherical ball.</item> <!-- OSTANE SOCCER -->
+        <item>Swimming is an individual or team racing sport that requires the use of one\'s entire body.</item>
+        <item>Table tennis is a sport in which two or four players hit a lightweight ball back and forth.</item>
+        <item>Tennis is a racket sport that can be played individually against a single opponent or between two teams.</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+</resources>
